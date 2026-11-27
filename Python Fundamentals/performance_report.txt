@@ -1,0 +1,16 @@
+Class Performance Report
+-------------------------
+Subjects: ('Python', 'Statistics', 'Mathematics')
+Total Students: 6
+Passed Students: 5
+Failed Students: 1
+Class Average: 68.22
+Highest Scoring Student: Sara (273)
+Lowest Scoring Student: Hamza (120)
+Unique Grades: {'F', 'D', 'A', 'C', 'B'}
+Grade Counts:
+  A: 2
+  B: 1
+  C: 1
+  D: 1
+  F: 1
